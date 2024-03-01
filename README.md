@@ -1,4 +1,4 @@
-![MasterHead](https://images.datacamp.com/image/upload/v1649063788/image5_mokwti.png)
+![MasterHead](https://images.prismic.io/mparticle/3cba8133-835b-4897-a05d-295295ef1acf_sql-pyth.png?auto=compress%2Cformat&rect=0%2C0%2C2520%2C1414&w=1230&h=690&fit=max)
 <h1 align="center">Hi 👋, I'm Mustafa Bay</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
