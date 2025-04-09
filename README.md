@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 💬 Ask me about **Python,SQL**
+- 💬 Ask me about **Python,SQL,MachineLearning**
 
 - 📫 How to reach me **baymustafa87@gmail.com**
 
